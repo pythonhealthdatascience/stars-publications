@@ -22,7 +22,7 @@ A list of all STARS publications including journals articles, conference papers,
 
 ## Open Science work related to STARS
 
-*  Thomas Monks, Christine S. M. Currie, Bhakti Stephan Onggo, Stewart Robinson, Martin Kunc & Simon J. E. Taylor (2019) Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines, Journal of Simulation, 13:1, 55-67, DOI: 10.1080/17477778.2018.1442155 
+*  Thomas Monks, Christine S. M. Currie, Bhakti Stephan Onggo, Stewart Robinson, Martin Kunc & Simon J. E. Taylor (2019) Strengthening the reporting of empirical simulation studies: Introducing the STRESS guidelines, Journal of Simulation, 13:1, 55-67, DOI: 10.1080/17477778.2018.1442155 https://doi.org/10.1080/17477778.2018.1442155
 
 ## Code archives
 
