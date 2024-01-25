@@ -1,8 +1,8 @@
-# STARS Publications
+# STARS Publications and Artefacts
 
 A list of all STARS publications including journals articles, conference papers, book chapters, pre-prints and presentations.
 
-## Papers and tutorials from STARS pilot.
+## Papers and tutorials supported by STARS pilot and feasibility work.
 
 *  Thomas Monks & Alison Harper (2023) Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review, Journal of Simulation, DOI: 10.1080/17477778.2023.2260772 https://doi.org/10.1080/17477778.2023.2260772
 
