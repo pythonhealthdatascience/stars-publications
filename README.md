@@ -16,7 +16,7 @@ A list of all STARS publications including journals articles, conference papers,
 
 * Harper, A., Monks, T., & Manzi, S. (2023, October 10). Deploying Healthcare Simulation Models Using Containerization and Continuous Integration (PREPRINT). https://doi.org/10.31219/osf.io/qez45
 
-* Monks, T., Harper, A., Anagnostou, A., & Taylor, S. J. (2022, July 14). Open Science for Computer Simulation (PRPRINT). https://doi.org/10.31219/osf.io/zpxtm
+* Monks, T., Harper, A., Anagnostou, A., & Taylor, S. J. (2022, July 14). Open Science for Computer Simulation (PREPRINT). https://doi.org/10.31219/osf.io/zpxtm
 
 * Harper, A., & Monks, T. (2023, March). A framework to share healthcare simulations on the web using free and open source tools and Python. In Proceedings of SW21 The OR Society Simulation Workshop (pp. 250–260). Operational Research Society. Retreived June 11, 2023, from https://www.theorsociety.com/media/7313/doiorg1036819sw23030.pdf
 
@@ -33,8 +33,8 @@ The below is archived and citable code for the examples in the papers and tutori
 * Monks, T., & Harper, A. (2023). Towards Sharing Tools and Artifacts for Resuable Simulation: example enhanced documentation for a `simpy` model. (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.10054063
 * Monks, T., & Harper, A. (2023). Towards Sharing Tools, Artifacts, and Reproducible Simulation: a ciw model example (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.10051495
 * Monks, T., & Harper, A. (2023). SimPy and StreamLit Tutorial Materials for Healthcare Discrete-Event Simulation (v1.1.2). Zenodo. https://doi.org/10.5281/zenodo.8193001
-* Harper. A. (2023). HEP: BMJ Open release (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.7951080
-* Harper A. , & Monks. T. (2023). Supplementary Material: code for the deployment of a simpy and streamlit model to dockerhub (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8011462
+* Harper, A. (2023). HEP: BMJ Open release (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.7951080
+* Harper, A. , & Monks. T. (2023). Supplementary Material: code for the deployment of a simpy and streamlit model to dockerhub (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8011462
 
 ## Docker images
 
