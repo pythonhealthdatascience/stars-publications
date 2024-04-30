@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/748216184.svg)](https://zenodo.org/doi/10.5281/zenodo.11092743)
+
 # 💫 STARS Publications and Artefacts
 
 A list of all STARS publications including journals articles, conference papers, book chapters, pre-prints and presentations.
