@@ -1,4 +1,4 @@
-# STARS Publications and Artefacts
+# 💫 STARS Publications and Artefacts
 
 A list of all STARS publications including journals articles, conference papers, book chapters, pre-prints and presentations.
 
